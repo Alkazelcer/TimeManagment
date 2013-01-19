@@ -1,0 +1,7 @@
+<resources>
+    <string name="default_head_record_font_size">14pt</string>
+    <string name="default_message_record_font_size">12pt</string>
+    <integer name="default_rendering_mode">0</integer>
+    <color name="default_text_color">#ffffffff</color>
+    <item name="max_text_size" format="float" type="dimen">240.0</item>
+</resources>

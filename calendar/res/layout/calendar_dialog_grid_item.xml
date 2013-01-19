@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_marginTop="5dip"
+        >
+    <TextView
+
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:textSize="14dip"
+            android:id="@+id/tvGridView">
+    </TextView>
+
+    <View
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/typeb_calendar_today"
+            android:visibility="gone"
+            android:id="@+id/ivTodayDate"
+            >
+    </View>
+
+</FrameLayout>

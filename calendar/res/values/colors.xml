@@ -1,0 +1,36 @@
+<resources>
+    <color name="ControlColor">#ff1f1f1f</color>
+    <color name="ControlBackground">#ff515e67</color>
+    <color name="FontOptionsColor">#ffffffff</color>
+    <color name="ButtonBackground">#ffcfcfcf</color>
+    <color name="HeaderBackground">#ff748593</color>
+    <color name="FrameBackground">#ff3a3a47</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="silver">#ffc0c0c0</color>
+    <color name="gray">#ff808080</color>
+    <color name="black">#ff000000</color>
+    <color name="red">#ffff0000</color>
+    <color name="maroon">#ff800000</color>
+    <color name="yellow">#ffffff00</color>
+    <color name="olive">#ff808000</color>
+    <color name="lime">#ff00ff00</color>
+    <color name="green">#ff008000</color>
+    <color name="aqua">#ff00ffff</color>
+    <color name="teal">#ff008080</color>
+    <color name="blue">#ff0000ff</color>
+    <color name="navy">#ff000080</color>
+    <color name="fuchsia">#ffff00ff</color>
+    <color name="purple">#ff800080</color>
+    <color name="light_gray">#ffc8c8c8</color>
+
+    <color name="effect_conf_background">#ff3A3E47</color>
+    <color name="effect_conf_background2">#ffDEE1E2</color>
+    <color name="effect_conf_rbutton">#ff515e67</color>
+    <color name="effect_conf_list_item_enabled_unpressed">#ff515e67</color>
+    <color name="effect_conf_list_item_disabled_unpressed">#ff282F33</color>
+    <color name="effect_conf_list_item_enabled_pressed">#ff518ea7</color>
+    <color name="effect_conf_list_item_disabled_pressed">#ffCFCFCF</color>
+    <color name="effect_text_color">#ff767a7f</color>
+</resources>
